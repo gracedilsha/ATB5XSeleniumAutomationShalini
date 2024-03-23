@@ -2,6 +2,6 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/shali/IdeaProjects/ATB5XSeleniumAutomationShalini/src">
-        <classes><class name="com.theTestingAcademyShalini.selenium.Selenium03">
-            <methods><include name="testMethod"/>
+        <classes><class name="com.theTestingAcademyShalini.selenium.Assignment.Project1_InvalidLogin">
+            <methods><include name="testVWOLoginNegative"/>
             </methods></class></classes></test></suite>
